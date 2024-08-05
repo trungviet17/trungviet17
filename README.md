@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trung</h1>
-<h3 align="center">Aspiring AI Maverick from Vietnam</h3>
+<h2 aligh="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007807&background=50FF9400&multiline=true&width=435&lines=Aspiring+AI+Maverick+from+Vietnam" alt="Typing SVG" /></a></h2>
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2d78d141-1f64-44c8-976b-7321284e5147/dfjfdbh-02721342-e03d-4748-965f-f5fd5773baba.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungviet17&label=Profile%20views&color=0e75b6&style=flat" alt="trungviet17" /> </p>
