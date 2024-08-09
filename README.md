@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007807&background=50FF9400&multiline=true&width=435&lines=Aspiring+AI+Maverick+from+Hanoi" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007807&background=50FF9400&multiline=true&width=435&lines=Aspiring+AI+Maverick+from+VNU-UET" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
