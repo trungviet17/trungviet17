@@ -3,7 +3,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007807&background=50FF9400&multiline=true&width=435&lines=Aspiring+AI+Maverick+from+VNU-UET" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="Coding" width="400" src="img.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungviet17&label=Profile%20views&color=0e75b6&style=flat" alt="trungviet17" /> </p>
 
