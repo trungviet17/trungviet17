@@ -12,7 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/trungviet17?tab=repositories](https://github.com/trungviet17?tab=repositories)
 
-- 📝 I regularly write articles on [https://trungviet17.github.io/](https://trungviet17.github.io/)
 
 - 📫 How to reach me **gnurt17forworking@gmail.com**
 
