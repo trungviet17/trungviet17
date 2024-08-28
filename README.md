@@ -1,5 +1,5 @@
 <div style="width: 200%;"  align="center" >
-    <img alt="Coding" src="https://i.pinimg.com/originals/58/55/c3/5855c38aca68df9f392bc701aa148500.gif" style="width: 200%; height: auto;">
+    <img alt="Coding" src="wallpaper.gif" style="width: 200%; height: auto;">
 </div>
 
 
