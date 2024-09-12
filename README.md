@@ -1,6 +1,3 @@
-<div style="width: 200%;"  align="center" >
-    <img alt="Coding" src="wallpaper.gif" style="width: 200%; height: auto;">
-</div>
 
 
 
@@ -8,20 +5,20 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007807&background=50FF9400&multiline=true&width=435&lines=Aspiring+AI+Maverick+from+VNU-UET" alt="Typing SVG" />
 </p>
+<img align="right" alt="Coding" width="400" src="wallpaper.gif">
 
-<img align="right" alt="Coding" width="400" src="img.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungviet17&label=Profile%20views&color=0e75b6&style=flat" alt="trungviet17" /> </p>
 
 
 - 🌱 I’m currently learning **Math and Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/trungviet17?tab=repositories](https://github.com/trungviet17?tab=repositories)
-
+- 👨‍💻 All of my projects are available at [here](https://github.com/trungviet17?tab=repositories)
 
 - 📫 How to reach me **gnurt17forworking@gmail.com**
 
 - ⚡ Fun fact **I’m a sci-fi movie aficionado**
+- 🏆 Update my latest blogs [here](https://trungviet17.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +35,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trungviet17&" alt="trungviet17" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trungviet17&show_icons=true&locale=en&layout=compact" alt="trungviet17" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trungviet17&show_icons=true&locale=en" alt="trungviet17" /></p>
