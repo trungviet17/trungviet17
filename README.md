@@ -35,7 +35,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trungviet17&" alt="trungviet17" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trungviet17&show_icons=true&locale=en&layout=compact" alt="trungviet17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trungviet17&show_icons=true&locale=en" alt="trungviet17" /></p>
