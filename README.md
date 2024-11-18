@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007807&background=50FF9400&multiline=true&width=435&lines=Aspiring+AI+Maverick+from+VNU-UET" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007807&background=50FF9400&multiline=true&width=435&lines=AI+enthusiast+researching+at+VNU-UET." alt="Typing SVG" />
 </p>
 <img align="right" alt="Coding" width="400" src="wallpaper.gif">
 
@@ -11,14 +11,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungviet17&label=Profile%20views&color=0e75b6&style=flat" alt="trungviet17" /> </p>
 
 
-- 🌱 I’m currently learning **Math and Data Science**
+- 🌱 I am currently researching large language models; additionally, mathematics and data science are also topics of my study.
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/trungviet17?tab=repositories)
+- 👨‍💻 All of my personal projects are available [here](https://github.com/trungviet17?tab=repositories) (GitHub repo). Please give a star to these projects if you like them 
 
-- 📫 How to reach me **gnurt17forworking@gmail.com**
+- 📫 You can contact me directly via this email: **gnurt17forworking@gmail.com**
 
-- ⚡ Fun fact **I’m a sci-fi movie aficionado**
-- 🏆 Update my latest blogs [here](https://trungviet17.github.io/)
+- ⚡ I enjoy keeping fish, especially Betta fish. Additionally, anime is one of my hobbies. In my free time, I often solve coding problems on LeetCode.
+- 🏆 You can check out my latest blog posts [here](https://trungviet17.github.io/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
