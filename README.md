@@ -1,9 +1,6 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007807&background=50FF9400&multiline=true&width=435&lines=AI+enthusiast+researching+at+VNU-UET." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02821B&center=true&width=435&lines=Young%2C+Wild+and+Free" alt="Typing SVG" />
 </p>
 <img align="right" alt="Coding" width="400" src="wallpaper.gif">
 
