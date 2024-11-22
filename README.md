@@ -14,7 +14,7 @@
 
 - 📫 You can contact me directly via this email: **gnurt17forworking@gmail.com**
 
-- ⚡ I enjoy keeping fish, especially Betta fish. Additionally, anime is one of my hobbies. In my free time, I often solve coding problems on LeetCode.
+- ⚡ I enjoy keeping fish, especially Betta fish. Additionally, anime is one of my hobbies.
 - 🏆 You can check out my latest blog posts [here](https://trungviet17.github.io/).
 
 <h3 align="left">Connect with me:</h3>
