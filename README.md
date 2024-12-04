@@ -1,20 +1,26 @@
+<div align = "center">
+    <img alt="Coding" width="600" src="wallpaper.gif" style="display: block; margin: auto;" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02821B&center=true&width=435&lines=Young%2C+Wild+and+Free" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02821B&center=true&width=435&lines=Young%2C+Wild+and+Free" alt="Typing SVG" />
 </p>
-<img align="right" alt="Coding" width="400" src="wallpaper.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trungviet17&label=Profile%20views&color=0e75b6&style=flat" alt="trungviet17" /> </p>
 
 
-- 🌱 I am currently researching large language models; additionally, mathematics and data science are also topics of my study.
+
+
+
+
+- 🌱 I am a third-year student majoring in Artificial Intelligence at the University of Engineering and Technology, Vietnam National University (VNU-UET). I have a strong passion for researching deep learning models, especially large language models. Additionally, I am deeply interested in mathematics and data science.
 
 - 👨‍💻 All of my personal projects are available [here](https://github.com/trungviet17?tab=repositories) (GitHub repo). Please give a star to these projects if you like them 
 
 - 📫 You can contact me directly via this email: **gnurt17forworking@gmail.com**
 
-- ⚡ I enjoy keeping fish, especially Betta fish. Additionally, anime is one of my hobbies.
+- ⚡ A fun fact about me: I also enjoy taking care of and keeping fish, particularly Betta fish!
 - 🏆 You can check out my latest blog posts [here](https://trungviet17.github.io/).
 
 <h3 align="left">Connect with me:</h3>
