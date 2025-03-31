@@ -38,6 +38,5 @@
 
 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trungviet17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="trungviet17" style="display: inline-block; width: 49%;" />
-</p>
+![trungviet17's Stats](https://github-readme-stats.vercel.app/api?username=trungviet17&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![trungviet17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=trungviet17&theme=nightowl&hide_border=true)
