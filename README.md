@@ -19,7 +19,7 @@
 - ⚡ A fun fact about me: I also enjoy taking care of and keeping fish, particularly Betta fish!. And one more thing, if you ever wonder why my wallpaper features Trunks from Dragon Ball, it's because I find him incredibly cool—and his name sounds a bit like mine! :>
 - 👨‍💻 All of my personal projects are available [here](https://github.com/trungviet17?tab=repositories) (GitHub repo). Please give a star to these projects if you like them 
 
-- 📫 You can contact me directly via this email: **gnurt17forworking@gmail.com**
+- 📫 You can contact me directly via this email: **gnurt17forworking@gmail.com** or checkout my CV at [here](https://drive.google.com/file/d/11sU6cIEeoEEKLFdlaaE5Gwd-7pmCmj1x/view?usp=sharing)
 
 - 🏆 You can check out my latest blog posts [here](https://trungviet17.github.io/).
 
